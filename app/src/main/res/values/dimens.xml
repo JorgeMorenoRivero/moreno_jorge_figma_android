@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margen_pantalla">16dp</dimen>
+    <dimen name="alto_campo">56dp</dimen>
+    <dimen name="alto_boton">48dp</dimen>
+    <dimen name="radio_portada">16dp</dimen>
+    <dimen name="alto_portada">200dp</dimen>
+    <dimen name="espacio_titulo_subtitulo">8dp</dimen>
+    <dimen name="espacio_campos">16dp</dimen>
+    <dimen name="espacio_botones">16dp</dimen>
+    <dimen name="espacio_campo_boton">32dp</dimen>
+    <dimen name="texto_titulo">24sp</dimen>
+    <dimen name="texto_cuerpo">16sp</dimen>
+    <dimen name="texto_boton">14sp</dimen>
+</resources>

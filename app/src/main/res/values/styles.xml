@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextoTitulo">
+        <item name="android:textSize">@dimen/texto_titulo</item>
+        <item name="android:textColor">@color/texto_principal</item>
+        <item name="android:fontFamily">@font/roboto</item>
+        <item name="android:lineSpacingExtra">8sp</item>
+    </style>
+
+    <style name="TextoCuerpo">
+        <item name="android:textSize">@dimen/texto_cuerpo</item>
+        <item name="android:textColor">@color/texto_secundario</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+
+    <style name="BotonPrincipal" parent="Widget.Material3.Button">
+        <item name="android:layout_height">@dimen/alto_boton</item>
+        <item name="android:textSize">@dimen/texto_boton</item>
+        <item name="android:textColor">@color/sobre_primario</item>
+        <item name="backgroundTint">@color/primario</item>
+        <item name="android:fontFamily">@font/roboto</item>
+    </style>
+</resources>

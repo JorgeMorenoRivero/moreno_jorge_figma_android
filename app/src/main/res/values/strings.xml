@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Chiribita</string>
+    <string name="titulo_acceso">Entra en Chiribita</string>
+    <string name="subtitulo_acceso">Con tu cuenta, comprar para los peques va más rápido</string>
+    <string name="hint_correo">Correo electrónico</string>
+    <string name="hint_contrasena">Contraseña</string>
+    <string name="btn_iniciar_sesion">Iniciar sesión</string>
+    <string name="btn_google">Continuar con Google</string>
+    <string name="desc_logo">Logo de Chiribita</string>
+    <string name="desc_portada">Ropa infantil sobre una cesta</string>
+    <string name="desc_google">Logo de Google</string>
+</resources>
